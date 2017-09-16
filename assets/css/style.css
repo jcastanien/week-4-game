@@ -1,0 +1,68 @@
+
+
+body {
+    align-content: center;
+    background:
+linear-gradient(135deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px),
+linear-gradient(225deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;
+background-color:#708090;
+background-size: 64px 128px
+}
+
+.wins {
+    font-size: 36;
+}
+
+.random {
+    font-size: 36;
+}
+
+h3 {
+    padding-top: 50px;
+    margin-top: 50px;
+    width: 300px;
+}
+
+.cry1 {
+    background-image: url(../img/blue.png);
+    background-size: 100px;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+.cry2 {
+    background-image: url(../img/red.png);
+    background-size: 100px;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+.cry3 {
+    background-image: url(../img/green.png);
+    background-size: 100px;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+.cry4 {
+    background-image: url(../img/orange.png);
+    background-size: 100px;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+.container {
+    background-color: #80aefa;
+    margin: auto;
+    width: 410px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Abel', sans-serif;
+    text-align: center;
+}
